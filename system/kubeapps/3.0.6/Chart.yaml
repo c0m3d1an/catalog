@@ -14,7 +14,7 @@ dependencies:
     tags: []
     import-values: []
   - name: kubeapps
-    version: 16.0.0
+    version: 15.0.3
     repository: oci://registry-1.docker.io/bitnamicharts
     condition: ""
     alias: ogkubeapps
